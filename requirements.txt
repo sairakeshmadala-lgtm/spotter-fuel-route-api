@@ -1,0 +1,4 @@
+Django>=6.1,<7.0
+djangorestframework>=3.18,<4.0
+requests>=2.34,<3.0
+pandas>=3.1,<4.0
